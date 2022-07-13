@@ -1,0 +1,22 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p { 
+    font-size: 24px;
+}
+
+header {
+    position: fixed;
+    background-color: red;
+    width: 90%;
+}
+
+body {
+    background-color: blue;
+}
+
+footer {
+    background-color: green;
+    width: 90%;
+}
